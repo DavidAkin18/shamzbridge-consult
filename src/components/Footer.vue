@@ -51,17 +51,16 @@ html, body {
   color: white;
   text-align: center;
   flex-shrink: 0;
-  
-  border-top: 2px solid #f2f4f8;
 }
 
 .footer-text {
   margin-bottom: 10px; 
-  text-align: left;
+  text-align: center;
 }
 
 .social-links {
   margin-top: 10px;
+  text-align: center;
 }
 
 .social-links a {
@@ -102,6 +101,7 @@ html, body {
 
   .footer-text, .social-links {
     margin-bottom: 0;
+    text-align: left;
   }
 
   .social-links a {
